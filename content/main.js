@@ -13,11 +13,7 @@ export const attributes = {
       instagram: { link: 'https://instagram.com', show: true },
       linkedin: { link: 'https://linkedin.com', show: true },
     },
-    typed: [
-      { text: 'fast websites.' },
-      { text: 'beautiful logos.' },
-      { text: 'great experiences.' },
-    ],
+    typed: [{ text: 'cool sites.' }, { text: 'super logos.' }],
   },
   about: {
     heading: 'Who am I?',
